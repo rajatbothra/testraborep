@@ -1,0 +1,20 @@
+{
+  "run": [
+    {
+      "filePath": "/ZRABO_PROJ8/WebContent/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1000478,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "mockpreview": {
+    "mockUri": "",
+    "metadataFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false,
+    "mockRequestsFilePath": ""
+  },
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "",
+    "defaultLanguage": "",
+    "defaultI18NPropertyFile": "",
+    "resourceModelName": ""
+  },
+  "basevalidator": {
+    "validators": [
+      {
+        "validatorID": "jsValidator",
+        "configuration": {
+          "eslintConfig": {
+            "rules": {
+              "no-unused-vars": [
+                0,
+                {
+                  "vars": "all",
+                  "args": "after-used"
+                }
+              ]
+            }
+          },
+          "rulesExt": {}
+        }
+      }
+    ],
+    "services": {
+      "js": "jsValidator"
+    }
+  },
+  "hcpdeploy": {
+    "account": "s0010618394trial",
+    "name": "zraboproj8",
+    "lastVersionWeTriedToDeploy": "1.0.0"
+  }
+}
